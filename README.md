@@ -9,6 +9,7 @@ Brutepress will look for users exposed in any wordpress site, retrieve them and 
 Requirements:
 
 WPSCAN installed 
+
 Any dictionary
 
 Usage:
