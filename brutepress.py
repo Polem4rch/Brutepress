@@ -21,7 +21,7 @@ length = len(two.json())
 
 for x in range(length):
     data = two.json()[x]['name']
-    print(data)
+    print(f"{x} {data}")
 
 number = int(input('select the username:'))
 show = two.json()[number]['name']
