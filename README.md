@@ -17,7 +17,7 @@ Usage:
 Python3 brutepress.py
 
 Youll be prompted to input a wordpress site, please check if its a http:// or https:// site,
-If users are found a list will appear, please choose any by using numbers and please note the first name on the list is number 0, then
+If users are found a list will appear, please choose any from 0, then
 add your dictionary path.
 
 When running the wpscan script, will provide some details from the site including:
