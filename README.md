@@ -6,7 +6,7 @@ DISCLAIMER: All the scripts should be used for authorized penetration testing an
 
 Brutepress will look for users exposed in any wordpress site, retrieve them and brute force them using WPSCAN (required)
 
-Requirements
+Requirements:
 
 WPSCAN installed 
 Any dictionary
@@ -38,7 +38,7 @@ Plugins
 Backups
 
 
-Also:
+Please Note:
 Some sites might have some kind of protection, some will block the usernames exposure altogether and other might block multiple login attemps, hence blocking the ip.
 
 
