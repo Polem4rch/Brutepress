@@ -38,8 +38,7 @@ Plugins
 Backups
 
 
-ALso:
-
+Also:
 Some sites might have some kind of protection, some will block the usernames exposure altogether and other might block multiple login attemps, hence blocking the ip.
 
 
