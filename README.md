@@ -1,6 +1,6 @@
 # Brutepress
 
-![](images/brutepress.jpeg)
+![](images/brutepress.jpeg.jpg)
 
 
 Wordpress Bruteforce based in CVE-2017-5487
